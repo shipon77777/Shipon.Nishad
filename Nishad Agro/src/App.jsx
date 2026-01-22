@@ -873,8 +873,8 @@ export default function EggBusinessApp() {
               </button>
             </form>
             <div className="mt-6 text-xs text-gray-400 space-y-1">
-               <p className="font-bold text-orange-500">নোট: অ্যাডমিন ও সাব-অ্যাডমিন পাসওয়ার্ড একই।</p>
-               <p>সাব-এডমিন: **** | অ্যাডমিন: ******</p>
+               <p className="font-bold text-orange-500">নোট: নিরাপত্তার স্বার্থে আপনার পাসওয়ার্ড কারো সাথে শেয়ার করবেন না।।</p>
+               <p>সাব-এডমিন: **** | অ্যাডমিন: Ratan Talukdar</p>
                <p className="pt-2 border-t border-gray-100">Developer: Shipon Talukdar</p>
             </div>
           </div>
